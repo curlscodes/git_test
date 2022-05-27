@@ -1,2 +1,9 @@
 hello world!
 line two
+
+commands:
+git status 
+git add (file or . for all files)
+git commit -m "comment about the commit"
+git log
+git push
